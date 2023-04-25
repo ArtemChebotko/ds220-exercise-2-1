@@ -21,7 +21,7 @@
 
 <!-- CONTENT -->
 
-<div class="step-title">Create a keyspace and table in the CQL shell:</div>
+<div class="step-title">Create a keyspace and table in the CQL shell</div>
 
 ✅ Start the CQL shell:
 ```
