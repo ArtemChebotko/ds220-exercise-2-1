@@ -41,7 +41,6 @@ Your peers need to query videos based on `title` and `added_year` The new column
 cat assets/videos_by_title_year.csv
 ```
 
-IMPORTANT: Notice the order of the columns matches the order shown above.
 
 
 <!-- NAVIGATION -->
