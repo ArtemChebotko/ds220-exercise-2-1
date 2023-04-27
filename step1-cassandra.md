@@ -38,7 +38,7 @@ Your peers need to query videos based on `title` and `added_year` The new column
 
 ✅ Review the contents of the CSV file with video metadata:
 ```
-cat assets/videos_by_title_year.csv
+head -n 10 assets/videos_by_title_year.csv
 ```
 
 
